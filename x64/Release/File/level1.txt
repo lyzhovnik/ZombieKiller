@@ -1,0 +1,45 @@
+22
+168
+PPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPPUPPPPPPPPPPPPPPPPPPPPPPPPP 
+P                                                                                                                                             U                        P
+P                                                                                                                                             U                        P
+P                                                                                                                                             U                        P
+P                                                                                                                                             UUUUUUUUUU               P
+P                                                                                                                                                      U               P
+P                                                                                                                                                      U  UUUUUUUU     P
+P                                                                                                                                                      U               P
+P                                                                                                                                                      U              UP
+P   BBB       BBB                                                                                      B B B B B B B      BBB            UUUU   U      U               P
+P   BBB BBBBB BBB BBBB                                                                                                                          U      U             U P
+P                                                                                    UUUUUUUUUUUUUUU   U   U   U   U     UUUUU   UUUU           U      U               P
+UU        U                                                                                 UUUU                                                U      U            U  P
+UBB                                                                         UUUUUU          UUUU                                             UUUU      U               P
+UBB       BBBB   UUUUUU                                                                     UUUU                                                U      U      B B  U   P
+U                                                                UUUUUUU                    UUUU                                                U      U               P
+UUUUU     UUUU                  UUUUU                   UUUUUU                              UUUU                                         UU     UUU    U     UUUUUUUUUUU
+U B B B B B B B B B B B             UU              B  B  B  B  B  B  B  B  B               UUUU                                                U                      U
+U                                   UUU                                                     UUUU                                                U  BBBB                U
+U                                   UUUU                                                    UUUU          U     U     U     U     U             U                      U
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU
+Enemy     200 560
+Enemy     600 560
+Enemy     1000 560
+Enemy     1400 560
+Enemy     1800 560
+Enemy     2200 560
+Enemy     2600 560
+Enemy     3100 560
+Enemy     3500 560
+Enemy     3900 560
+Enemy     4300 560
+Enemy     4700 560
+Enemy     5100 560
+EnemyMid  620 330 2700
+EnemyMid  1090 420 2000
+EnemyMid  1850 300 2600
+EnemyMid  2155 300 2800
+EnemyMid  2500 300 2800
+EnemyMid  2915 250 6000
+EnemyMid  3920 250 2000
+EnemyMid  4420 210 1650
